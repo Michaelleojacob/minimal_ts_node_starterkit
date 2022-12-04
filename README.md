@@ -1,0 +1,1 @@
+# minimal_ts_node_starterkit
